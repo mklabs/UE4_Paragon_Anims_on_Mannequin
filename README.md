@@ -2,6 +2,8 @@
 
 This fork is based off [TCMabe's repository](https://github.com/TCMabe/UE4_Paragon_Anims_on_Mannequin) mainly to convert the repo from an Unreal Project to a Plugin.
 
+Dev branch.
+
 ## Install
 
 You can download a packaged release [here](https://github.com/mklabs/UE4_Paragon_Anims_on_Mannequin/releases/latest/download/Paragon_Anims_Mannequin_1.0.0.zip).
